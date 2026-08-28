@@ -6,6 +6,20 @@
       "title": "StopAlert'e hoş geldin!",
       "body": "Durağını seç, alarmı kur; durağına yaklaşınca seni uyandıralım.",
       "date": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-hosgeldin",
+      "category": "uyari",
+      "title": "StopAlert'e hoş geldin!",
+      "body": "Durağını seç, alarmı kur; durağına yaklaşınca seni uyandıralım.",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "2026-08-28-hosgeldin",
+      "category": "dikkat",
+      "title": "StopAlert'e hoş geldin!",
+      "body": "Durağını seç, alarmı kur; durağına yaklaşınca seni uyandıralım.",
+      "date": "2026-08-28"
     }
   ]
 }
